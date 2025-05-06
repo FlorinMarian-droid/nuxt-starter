@@ -1,18 +1,18 @@
 {
   "hero": {
-    "title": "Build Blazing-Fast Websites with Nuxt.js & Netlify",
-    "description": "Craft high-performing, SEO-friendly web experiences with the dynamic power of Nuxt.js and the speed of Netlify's global edge network.",
+    "title": "Bine ai venit pe Zero Point!",
+    "description": "Un spațiu unde adolescenții își descoperă curajul, vocea și drumul profesional.",
     "image": "images/hero.jpg",
     "imageAlt": "Nuxt logo and title on abstract background",
     "buttons": [
       {
-        "label": "Get Started Today",
-        "url": "https://www.netlify.com/"
+        "label": "Scrie-mi",
+        "url": "https://www.zero-point.ro"
       }
     ]
   },
   "logos": {
-    "title": "Trusted by the world's best",
+    "title": "Bucuria din spatele imposibilului",
     "icons": [
       {
         "name": "i-simple-icons-gitlab"
